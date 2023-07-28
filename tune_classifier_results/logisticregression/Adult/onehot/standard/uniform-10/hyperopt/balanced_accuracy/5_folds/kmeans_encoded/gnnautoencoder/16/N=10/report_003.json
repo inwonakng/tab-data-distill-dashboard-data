@@ -1,0 +1,42 @@
+[
+  {
+    "Subset": "Train",
+    "Score": 1.0,
+    "Train Mode": "Default"
+  },
+  {
+    "Subset": "Train - Original",
+    "Score": 0.7136417241471233,
+    "Train Mode": "Default"
+  },
+  {
+    "Subset": "Val",
+    "Score": 0.7018583098016893,
+    "Train Mode": "Default"
+  },
+  {
+    "Subset": "Test",
+    "Score": 0.7116429244980822,
+    "Train Mode": "Default"
+  },
+  {
+    "Subset": "Train",
+    "Score": 1.0,
+    "Train Mode": "Tuned"
+  },
+  {
+    "Subset": "Train - Original",
+    "Score": 0.7213888303284002,
+    "Train Mode": "Tuned"
+  },
+  {
+    "Subset": "Val",
+    "Score": 0.7130745795907638,
+    "Train Mode": "Tuned"
+  },
+  {
+    "Subset": "Test",
+    "Score": 0.7161385750932687,
+    "Train Mode": "Tuned"
+  }
+]

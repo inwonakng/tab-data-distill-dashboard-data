@@ -1,0 +1,6 @@
+{
+  "tol": 0.0005788138232914157,
+  "solver": "lbfgs",
+  "penalty": null,
+  "max_iter": 500
+}

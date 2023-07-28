@@ -1,0 +1,6 @@
+{
+  "tol": 7.728905676099335e-05,
+  "solver": "sag",
+  "penalty": "l2",
+  "max_iter": 500
+}
