@@ -1,6 +1,0 @@
-{
-  "tol": 0.004433835926040739,
-  "solver": "sag",
-  "penalty": null,
-  "max_iter": 500
-}

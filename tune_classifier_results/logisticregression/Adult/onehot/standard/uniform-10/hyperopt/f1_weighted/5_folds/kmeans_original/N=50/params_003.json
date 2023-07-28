@@ -1,6 +1,0 @@
-{
-  "tol": 5.7568487444615353e-05,
-  "solver": "newton-cg",
-  "penalty": null,
-  "max_iter": 1000
-}
